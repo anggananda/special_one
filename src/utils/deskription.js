@@ -1,0 +1,3 @@
+export const stageOne = "In the beginning, we were drawn to each other, but neither of us knew where we stood. It was a period of quiet longing and subtle hints, as we navigated our feelings without fully understanding them."
+export const stageTwo = "As our connection deepened, so did the complexities. We faced moments of doubt and uncertainty, trying to figure out what we meant to each other. It was a time of growth and challenge, as we moved closer yet still hesitated."
+export const stageThree = "Now, we’ve found comfort in each other. The uncertainties have faded, replaced by a shared understanding and affection. We’re building something meaningful, enjoying every step of this journey together."
