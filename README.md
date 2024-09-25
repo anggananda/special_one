@@ -1,6 +1,6 @@
 # Journey of Love 💗
 
-![Memorable Moment](./public/imgs/lovely.jpeg)
+![Love U](./public/imgs/our-love.jpeg)
 
 Welcome to **Journey of Love**! This web project is a heartfelt digital journal that captures the essence of my journey with someone incredibly special. It’s a tribute to the moments we've shared and the path we're walking together.
 
